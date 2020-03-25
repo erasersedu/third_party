@@ -33,6 +33,7 @@ To Install:
 
 * Install ROS libraries:
 
+Ubuntu 16.04
 
 > sudo apt-get install ros-kinetic-librealsense
 
@@ -45,3 +46,10 @@ To Install:
 > sudo apt-get install ros-kinetic-turtlebot-simulator
 
 > sudo apt-get install ros-kinetic-ar-track-alvar-msgs
+
+
+Ubuntu 18.04
+
+> sudo apt-get install ros-melodic-kobuki-* -y
+
+> sudo apt-get install ros-melodic-ecl-streams -y
