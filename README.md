@@ -29,3 +29,19 @@ To Install:
 > catkin_make
 
 > source devel/setup.bash
+
+
+* Install ROS libraries:
+
+
+> sudo apt-get install ros-kinetic-librealsense
+
+> sudo apt-get install ros-kinetic-turtlebot
+
+> sudo apt-get install ros-kinetic-turtlebot-apps
+
+> sudo apt-get install ros-kinetic-turtlebot-interactions
+
+> sudo apt-get install ros-kinetic-turtlebot-simulator
+
+> sudo apt-get install ros-kinetic-ar-track-alvar-msgs
