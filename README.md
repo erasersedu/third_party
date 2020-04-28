@@ -57,7 +57,7 @@ Ubuntu 18.04
 
 In Ubuntu 18.04, if the following errors appear:
 
-`/home/luis/erasersedu_ws/src/third_party/turtlebot/turtlebot_arm/turtlebot_arm_ikfast_plugin/src/turtlebot_arm_arm_ikfast_moveit_plugin.cpp:253:109: error: no matching function for call to ‘const_pointer_cast<urdf::Link>(urdf::LinkConstSharedPtr)’`
+`~/erasersedu_ws/src/third_party/turtlebot/turtlebot_arm/turtlebot_arm_ikfast_plugin/src/turtlebot_arm_arm_ikfast_moveit_plugin.cpp:253:109: error: no matching function for call to ‘const_pointer_cast<urdf::Link>(urdf::LinkConstSharedPtr)’`
 
 `~/erasersedu_ws/src/third_party/turtlebot/turtlebot_arm/turtlebot_arm_ikfast_plugin/src/turtlebot_arm_arm_ikfast_moveit_plugin.cpp:258:50: error: conversion from ‘urdf::JointSharedPtr {aka std::shared_ptr<urdf::Joint>}’ to non-scalar type ‘boost::shared_ptr<urdf::Joint>’ requested`
 
